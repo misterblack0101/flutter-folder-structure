@@ -1,0 +1,1 @@
+// global n/w functions, that are used in multiple places

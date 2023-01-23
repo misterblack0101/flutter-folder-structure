@@ -1,0 +1,1 @@
+// tabs has tabs from the bottomNavBar

@@ -1,0 +1,1 @@
+// asset file path string constants, for easier use.

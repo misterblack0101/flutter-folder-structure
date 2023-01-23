@@ -1,0 +1,1 @@
+// app constants like getDeviceHeight() and width, etc.
